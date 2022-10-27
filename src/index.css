@@ -18,3 +18,16 @@ th {
   text-align: left;
   padding: 8px;
 }
+button {
+  background-color: #000080;
+  border: solid;
+  border-radius: 23%;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 2px 2px;
+  cursor: pointer;
+}
